@@ -50,9 +50,7 @@ The main objective was to increase blog traffic and build a targeted subscriber 
 |--------|---------|--------------------------|----------|
 | Open Rate | 45% | 36% | Excellent engagement |
 | Click-Through Rate | 15% | 2–3% | Very strong interest |
-| Bounce Rate | Low | — | High list quality |
-| Unsubscribe | 1–2 users | — | Normal behavior |
-| Subscribers Gained | +50% | — | Good list growth |
+
 
 ---
 
