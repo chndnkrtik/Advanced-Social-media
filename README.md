@@ -113,5 +113,5 @@ This model can serve as a foundation for **future brand-driven email campaigns**
 ## 🧑‍💻 Author
 
 **Chandan Kartik**  
-📧 *[Contact placeholder — optional]*  
+📧 *[chndnkrtik@gmail.com]*  
 🕸️ Chandigarh University | BCA 8’B’  
