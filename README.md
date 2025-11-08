@@ -6,7 +6,7 @@ report:
 **Institution:** Chandigarh University  
 **Submitted by:** Chandan Kartik (23BCA10383)  
 **Section:** 23BCA-8’B’  
-**Submitted to:** Ms. Ankita, Assistant Professor  
+**Submitted to:** Ms. Ankita
 
 ---
 
